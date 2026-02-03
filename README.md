@@ -23,7 +23,7 @@ I'm **Djalel** (aka `@sniper1720`), a multitasker with a passion for both scienc
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sniper1720&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=bd93f9&custom_title=sniper1720" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sniper1720&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=bd93f9&custom_title=sniper1720" height="200" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniper1720&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9" height="160" alt="Languages" />
 </div>
 
