@@ -22,8 +22,8 @@ I'm **Djalel** (aka `@sniper1720`), a multitasker with a passion for both scienc
 
 ### GitHub Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sniper1720&theme=tokyonight)  
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sniper1720&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sniper1720&theme=tokyonight)  
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sniper1720&theme=tokyonight)
 
 ### Support My Work
 
