@@ -13,7 +13,7 @@
 I'm **Djalel** (aka `@sniper1720`), a multitasker with a passion for both science and open source software.
 
 *   **By Profession**: I am a **Science Teacher** with a **Master's degree in Microbial Biotechnology**.
-*   **By Passion**: I am a long-time Linux user (**Arch Linux** is my daily driver) and the founder/editor of **[Linux-Tech&More](https://linux-techandmore.com/)**, where I blog about the open-source world.
+*   **By Passion**: I am a long-time Linux user (**Arch Linux** is my daily driver) and the founder/editor of **[Linux-Tech&More](https://www.linuxtechmore.com/)**, where I blog about the open source world.
 *   **As a Developer**: I am currently on a coding learning journey, exploring **C++**, **Rust**, **HTML/CSS**, and **Qt/QML**. I enjoy applying what I learn to create elegant and useful tools/apps for the Linux ecosystem.
     <br><br>
     ![Linux](https://img.shields.io/badge/Linux-f1fa8c?style=for-the-badge&logo=linux&logoColor=282a36) ![Qt](https://img.shields.io/badge/Qt-50fa7b?style=for-the-badge&logo=qt&logoColor=282a36) ![Bash](https://img.shields.io/badge/Shell_Script-44475a?style=for-the-badge&logo=gnu-bash&logoColor=f8f8f2)
