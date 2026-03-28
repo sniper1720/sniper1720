@@ -31,10 +31,8 @@ If you enjoy my work on themes, tools, apps, or my articles on Linux-Tech&More, 
 <br>
 
 <div align="center">
-
-<a href="https://www.buymeacoffee.com/linuxtechmore">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=linuxtechmore&button_colour=ffb86c&font_colour=282a36&font_family=Cookie&outline_colour=000000&coffee_colour=282a36" height="40" alt="Buy Me A Coffee" />
-</a>
+<a href="https://liberapay.com/sniper1720/"><img src="https://img.shields.io/badge/Liberapay-8be9fd?style=for-the-badge&logo=liberapay&logoColor=282a36&labelColor=8be9fd" height="42" /></a>
+<a href="https://www.buymeacoffee.com/linuxtechmore"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f1fa8c?style=for-the-badge&logo=buy-me-a-coffee&logoColor=282a36" height="42" /></a>
 
 <br>
 <br>
